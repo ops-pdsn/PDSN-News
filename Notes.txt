@@ -1,0 +1,9 @@
+#Tailwind Installation Guide: 
+To Uninstall current version (npm uninstall tailwindcss).
+Install Tailwind CSS v3 (npm install -D tailwindcss@3).
+Initialize Configuration (npx tailwindcss init -p).
+Check Tailwind CSS Version (npx tailwindcss --version).
+
+#Optional:
+Install the Tailwind CLI Explicitly (npm install -D @tailwindcss/cli).
+Initialize Tailwind Configuration (npx tailwindcss init -p).
